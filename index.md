@@ -9,7 +9,7 @@
 ### Facial Verification with a Siamese Network
 
 In this project, I have learnt how to build a deep facial recognition application to authenticate into an application. 
-I have started off by building a model using Deep Learning with Tensorflow, which replicates what is shown in the paper titled [Siamese Neural Networks for One-shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
+I have started off by building a model using Deep Learning with Tensorflow, which replicates what is shown in the paper titled [Siamese Neural Networks for One-Shot Image Recognition](https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf)
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
 [![Static Badge](https://img.shields.io/badge/Deep_Learning-white?logo=Deep%20Learning)](#)
