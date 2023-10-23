@@ -93,7 +93,7 @@ The goal is to determine the likelihood of a Windows operating system machine ge
 
 ---
 
-### MCS Malware Prediction
+### Google Analytics Customer Revenue Prediction
 
 ### Regression
 
