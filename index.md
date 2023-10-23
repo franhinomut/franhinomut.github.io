@@ -45,4 +45,33 @@ Design and comparison of two strategies for image classification using the Calte
 <img src="images/Training Loss.png?raw=true" />
 
 ---
+## Machine Learning 
+
+---
+
+### Master's final work: Easy_Money Financial Products
+
+### Classification
+
+For my Master's thesis, I immersed myself in the role of a data scientist working for a company that markets financial products. This was done to simulate a real-life work scenario where requirements may not be clearly defined, and we need to use our creativity to develop solutions.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
+[![Static Badge](https://img.shields.io/badge/Machine_Learning-white?logo=Machine_Learning)](#)
+[![Static Badge](https://img.shields.io/badge/Data_Cleaning-white?logo=Data_Cleaning)](#)
+[![Static Badge](https://img.shields.io/badge/Data_Preprocessing-white?logo=Data_Preprocessing)](#)
+[![Static Badge](https://img.shields.io/badge/Data_Visualization-white?logo=Data_Visualization)](#)
+[![Static Badge](https://img.shields.io/badge/PowerBI-white?logo=PowerBI)](#)
+[![Static Badge](https://img.shields.io/badge/Clustering-white?logo=Clustering)](#)
+[![Static Badge](https://img.shields.io/badge/Classification-white?logo=Classification)](#)
+
+[View code on GitHub](https://github.com/franhinomut/TFM_DSC_Easy_Money)
+
+
+
+
+
+
+
+
+
 
