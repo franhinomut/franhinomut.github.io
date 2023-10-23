@@ -1,11 +1,11 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Francesc Hinojosa # your name (or website title) here
+logo: "/images/Francesc Hinojosa Data Scientist.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   First description 
-  <br><br>
+  <br>As a forward-thinking professional, I have consistently demonstrated my prowess as an innovation leader in product development and service throughout my career.<br>
   Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <br>My recent focus has been leveraging cutting-edge technologies, particularly artificial intelligence, to identify and showcase compelling business use cases. With a keen ability to articulate the intricacies of these technologies, I thrive in engaging in technical discussions surrounding artificial intelligence.<br>
+  <a href="https://www.linkedin.com/in/franhinomut/">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
