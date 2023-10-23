@@ -16,6 +16,8 @@ I have started off by building a model using Deep Learning with Tensorflow, whic
 [![Static Badge](https://img.shields.io/badge/Tensorflow-white?logo=Tensorflow)](#)
 
 <img src="images/One-shot tasks.png?raw=true" />
+<img src="images/Facial Verification.png?raw=true" />
+
 
 
 ---
