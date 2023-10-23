@@ -109,7 +109,7 @@ I was challenged to analyze a Google Merchandise Store (also known as GStore, wh
 [View code on GitHub](https://github.com/franhinomut/Google-Analytics-Customer-Revenue-Prediction)
 
 <img src="images/Browsers.png?raw=true" />
-<img src="images/TotalTransactions?raw=true" />
+<img src="images/TotalTransactions.png?raw=true" />
 <img src="images/TotalTransactionsLN.png?raw=true" />
 <img src="images/TotalHistsLN.png?raw=true" />
 
@@ -133,7 +133,7 @@ The goal is to determine the likelihood of a Windows operating system machine ge
 [View code on GitHub](https://github.com/franhinomut/Customer_Churn_Prediction)
 
 <img src="images/outputs.png?raw=true" />
-<img src="images/Correlations?raw=true" />
+<img src="images/Correlations.png?raw=true" />
 <img src="images/DecisionTree.png?raw=true" />
 
 ---
