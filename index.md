@@ -1,10 +1,8 @@
 # My projects in data science, machine learning, deep learning, and computing vision.
 
----
 
 ## Computing Vision 
 
----
 
 ### Facial Verification with a Siamese Network
 
