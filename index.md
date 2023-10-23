@@ -23,27 +23,13 @@ I have started off by building a model using Deep Learning with Tensorflow, whic
 <img src="images/Facial Verification.png?raw=true" />
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+## Deep Learning 
 
 ---
 
-### Category Name 2
+### Image Classification using Caltech 101 Dataset
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
-
+In the first strategy, I use the pre-training with the ImageNet dataset and in the second, we design a neural network from scratch.
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
