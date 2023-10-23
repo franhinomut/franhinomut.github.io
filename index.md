@@ -113,4 +113,27 @@ I was challenged to analyze a Google Merchandise Store (also known as GStore, wh
 <img src="images/TotalTransactionsLN.png?raw=true" />
 <img src="images/TotalHistsLN.png?raw=true" />
 
+---
 
+### Google Analytics Customer Revenue Prediction
+
+### Customer Churn Prediction
+
+### Classification
+
+The goal is to determine the likelihood of a Windows operating system machine getting infected by malware based on its various properties.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
+[![Static Badge](https://img.shields.io/badge/Machine_Learning-white?logo=Machine_Learning)](#)
+[![Static Badge](https://img.shields.io/badge/Data_Cleaning-white?logo=Data_Cleaning)](#)
+[![Static Badge](https://img.shields.io/badge/Data_Preprocessing-white?logo=Data_Preprocessing)](#)
+[![Static Badge](https://img.shields.io/badge/Data_Visualization-white?logo=Data_Visualization)](#)
+[![Static Badge](https://img.shields.io/badge/Classification-white?logo=Classification)](#)
+
+[View code on GitHub](https://github.com/franhinomut/Customer_Churn_Prediction)
+
+<img src="images/Browsers.png?raw=true" />
+<img src="images/TotalTransactions?raw=true" />
+<img src="images/TotalTransactionsLN.png?raw=true" />
+
+---
