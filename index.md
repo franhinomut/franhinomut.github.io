@@ -66,7 +66,10 @@ For my Master's thesis, I immersed myself in the role of a data scientist workin
 
 [View code on GitHub](https://github.com/franhinomut/TFM_DSC_Easy_Money)
 
-
+<img src="images/Contexto.png?raw=true" />
+<img src="images/Preprocesamiento.png?raw=true" />
+<img src="images/Clustering.png?raw=true" />
+<img src="images/Modelado.png?raw=true" />
 
 
 
