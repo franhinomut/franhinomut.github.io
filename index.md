@@ -91,6 +91,23 @@ The goal is to determine the likelihood of a Windows operating system machine ge
 <img src="images/valores unicos.png?raw=true" />
 <img src="images/ROC Curve.png?raw=true" />
 
+---
+
+### MCS Malware Prediction
+
+### Regression
+
+I was challenged to analyze a Google Merchandise Store (also known as GStore, where Google swag is sold) customer dataset to predict revenue per customer.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
+[![Static Badge](https://img.shields.io/badge/Machine_Learning-white?logo=Machine_Learning)](#)
+[![Static Badge](https://img.shields.io/badge/Data_Cleaning-white?logo=Data_Cleaning)](#)
+[![Static Badge](https://img.shields.io/badge/Data_Preprocessing-white?logo=Data_Preprocessing)](#)
+[![Static Badge](https://img.shields.io/badge/Data_Visualization-white?logo=Data_Visualization)](#)
+[![Static Badge](https://img.shields.io/badge/Regression-white?logo=Regression)](#)
+
+[View code on GitHub](https://github.com/franhinomut/Google-Analytics-Customer-Revenue-Prediction)
+
 
 
 
