@@ -14,6 +14,8 @@ I have started off by building a model using Deep Learning with Tensorflow, whic
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
 [![Static Badge](https://img.shields.io/badge/Deep_Learning-white?logo=Deep%20Learning)](#)
 [![Static Badge](https://img.shields.io/badge/Tensorflow-white?logo=Tensorflow)](#)
+[![Static Badge](https://img.shields.io/badge/Siamese_Neural_Network-white?logo=Siamese_Neural_Network)](#)
+
 
 <img src="images/One-shot tasks.png?raw=true" />
 <img src="images/Facial Verification.png?raw=true" />
