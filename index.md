@@ -108,6 +108,9 @@ I was challenged to analyze a Google Merchandise Store (also known as GStore, wh
 
 [View code on GitHub](https://github.com/franhinomut/Google-Analytics-Customer-Revenue-Prediction)
 
-
+<img src="images/Browsers.png?raw=true" />
+<img src="images/TotalTransactions?raw=true" />
+<img src="images/TotalTransactionsLN.png?raw=true" />
+<img src="images/TotalHistsLN.png?raw=true" />
 
 
