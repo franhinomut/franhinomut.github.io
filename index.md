@@ -31,6 +31,11 @@ I have started off by building a model using Deep Learning with Tensorflow, whic
 
 In the first strategy, I use the pre-training with the ImageNet dataset and in the second, we design a neural network from scratch.
 
+[View code on GitHub](https://github.com/franhinomut/Deep_Learning_dataset_Caltech_101)
+
+<img src="images/Caltech 101.png?raw=true" />
+<img src="images/Training Loss.png?raw=true" />
+
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
