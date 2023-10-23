@@ -88,8 +88,8 @@ The goal is to determine the likelihood of a Windows operating system machine ge
 
 [View code on GitHub](https://github.com/franhinomut/MCS_Malware_Prediction)
 
-<img src="images/Contexto.png?raw=true" />
-<img src="images/Preprocesamiento.png?raw=true" />
+<img src="images/valores unicos.png?raw=true" />
+<img src="images/ROC Curve.png?raw=true" />
 
 
 
