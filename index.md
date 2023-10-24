@@ -15,6 +15,7 @@ I have started off by building a model using Deep Learning with Tensorflow, whic
 [![Static Badge](https://img.shields.io/badge/Deep_Learning-white?logo=Deep%20Learning)](#)
 [![Static Badge](https://img.shields.io/badge/Tensorflow-white?logo=Tensorflow)](#)
 [![Static Badge](https://img.shields.io/badge/Siamese_Neural_Network-white?logo=Siamese_Neural_Network)](#)
+[![Static Badge](https://img.shields.io/badge/OpenCV-white?logo=OpenCV)](#)
 
 
 [View code on GitHub](https://github.com/franhinomut/Facial_Verification_Siamese_Network)
