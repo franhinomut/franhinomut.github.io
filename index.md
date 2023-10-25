@@ -26,13 +26,13 @@ I have started off by building a model using Deep Learning with Tensorflow, whic
 
 ---
 
-## Natural Lenguage Processing 
+## Natural Language Processing 
 
 ---
 
 ### BERT used with Sentiment Analysis
 
-A Sentiment Analysis model was constructed by harnessing the power of pre-trained BERT transformer, a state-of-the-art language model, and applying it to a substantial dataset enriched with smile annotations. This endeavor was executed within the PyTorch Framework, with a focus on developing a model for multi-class classification.
+A Sentiment Analysis model was constructed by harnessing the power of pre-trained BERT transformer, a state-of-the-art language model, and applying it to a substantial dataset enriched with smile annotations. This endeavour was executed within the PyTorch Framework, focusing on developing a model for multi-class classification.
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
 [![Static Badge](https://img.shields.io/badge/NLP-white?logo=NLP)](#)
@@ -44,8 +44,7 @@ A Sentiment Analysis model was constructed by harnessing the power of pre-traine
 [View code on GitHub](https://github.com/franhinomut/Facial_Verification_Siamese_Network)
 
 
-<img src="images/One-shot tasks.png?raw=true" />
-<img src="images/Facial Verification.png?raw=true" />
+<img src="images/BERT_diagrams.png?raw=true" />
 
 ---
 
