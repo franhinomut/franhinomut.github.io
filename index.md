@@ -62,7 +62,7 @@ Design and comparison of two strategies for image classification using the Calte
 [![Static Badge](https://img.shields.io/badge/Data_Preprocessing-white?logo=Data_Preprocessing)](#)
 
 
-[[View code on GitHub](https://github.com/franhinomut/Deep_Learning_dataset_Caltech_101)
+[View code on GitHub](https://github.com/franhinomut/Deep_Learning_dataset_Caltech_101)
 
 <img src="images/Caltech 101.png?raw=true" />
 
