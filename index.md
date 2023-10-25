@@ -41,7 +41,7 @@ A Sentiment Analysis model was constructed by harnessing the power of pre-traine
 [![Static Badge](https://img.shields.io/badge/OpenCV-white?logo=OpenCV)](#)
 
 
-[View code on GitHub](https://github.com/franhinomut/Facial_Verification_Siamese_Network)
+[View code on GitHub](https://github.com/franhinomut/BERT-used-with-Sentiment-Analysis)
 
 
 <img src="images/BERT_diagrams.png?raw=true" />
