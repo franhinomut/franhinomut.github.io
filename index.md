@@ -1,4 +1,4 @@
-# My projects in data science, machine learning, deep learning, and computing vision.
+# My projects in data science, machine learning, deep learning, NLP, and computing vision.
 
 ---
 
@@ -25,9 +25,31 @@ I have started off by building a model using Deep Learning with Tensorflow, whic
 <img src="images/Facial Verification.png?raw=true" />
 
 ---
-## Deep Learning 
+
+## Natural Lenguage Processing 
 
 ---
+
+### BERT used with Sentiment Analysis
+
+A Sentiment Analysis model was constructed by harnessing the power of pre-trained BERT transformer, a state-of-the-art language model, and applying it to a substantial dataset enriched with smile annotations. This endeavor was executed within the PyTorch Framework, with a focus on developing a model for multi-class classification.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
+[![Static Badge](https://img.shields.io/badge/NLP-white?logo=NLP)](#)
+[![Static Badge](https://img.shields.io/badge/Pytorch-white?logo=PyTorch)](#)
+[![Static Badge](https://img.shields.io/badge/Fine_Tuning-white?logo=Fine_Tuning)](#)
+[![Static Badge](https://img.shields.io/badge/OpenCV-white?logo=OpenCV)](#)
+
+
+[View code on GitHub](https://github.com/franhinomut/Facial_Verification_Siamese_Network)
+
+
+<img src="images/One-shot tasks.png?raw=true" />
+<img src="images/Facial Verification.png?raw=true" />
+
+---
+
+## Deep Learning 
 
 ### Image Classification using Caltech 101 Dataset
 
@@ -38,12 +60,12 @@ Design and comparison of two strategies for image classification using the Calte
 [![Static Badge](https://img.shields.io/badge/Convolution_Networks-white?logo=Convolution_Networks)](#)
 [![Static Badge](https://img.shields.io/badge/Data_Augmentation-white?logo=Data_Augmentation)](#)
 [![Static Badge](https://img.shields.io/badge/Fine_Tuning-white?logo=Fine_Tuning)](#)
+[![Static Badge](https://img.shields.io/badge/Data_Preprocessing-white?logo=Data_Preprocessing)](#)
 
 
-[View code on GitHub](https://github.com/franhinomut/Deep_Learning_dataset_Caltech_101)
+[[View code on GitHub](https://github.com/franhinomut/Deep_Learning_dataset_Caltech_101](https://github.com/franhinomut/BERT-used-with-Sentiment-Analysis/blob/main/Sentiment_Analysis.ipynb))
 
 <img src="images/Caltech 101.png?raw=true" />
-<img src="images/Training Loss.png?raw=true" />
 
 ---
 ## Machine Learning 
