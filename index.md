@@ -62,7 +62,7 @@ Design and comparison of two strategies for image classification using the Calte
 [![Static Badge](https://img.shields.io/badge/Data_Preprocessing-white?logo=Data_Preprocessing)](#)
 
 
-[[View code on GitHub](https://github.com/franhinomut/Deep_Learning_dataset_Caltech_101](https://github.com/franhinomut/BERT-used-with-Sentiment-Analysis/blob/main/Sentiment_Analysis.ipynb)
+[[View code on GitHub](https://github.com/franhinomut/Deep_Learning_dataset_Caltech_101)
 
 <img src="images/Caltech 101.png?raw=true" />
 
@@ -75,7 +75,7 @@ Design and comparison of two strategies for image classification using the Calte
 
 ### Classification
 
-For my Master's thesis, I immersed myself in the role of a data scientist working for a company that markets financial products. This was done to simulate a real-life work scenario where requirements may not be clearly defined, and we need to use our creativity to develop solutions.
+For my Master's thesis, I immersed myself as a data scientist working for a company that markets financial products. This was done to simulate a real-life work scenario where requirements may not be clearly defined, and we need to use our creativity to develop solutions.
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
 [![Static Badge](https://img.shields.io/badge/Machine_Learning-white?logo=Machine_Learning)](#)
