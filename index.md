@@ -6,10 +6,21 @@
 
 ---
 
+### Text Classifier App with Hugging Face, BERT, and Comet
+
+Text Classifier App with Hugging Face, BERT, and Comet. This project shows how to build an end-to-end text classification project. The project Fine-tuning the BERT model with the Transformers library for text classification. A web app is built using Gradio.
+
+---
+
 ### BERT used with Sentiment Analysis
 
 A Sentiment Analysis model was constructed by harnessing the power of pre-trained BERT transformer, a state-of-the-art language model, and applying it to a substantial dataset enriched with smile annotations. This endeavour was executed within the PyTorch Framework, focusing on developing a model for multi-class classification.
 
+[![](https://img.shields.io/badge/Python-blue?style=plastic&logo=python&logoColor=white)]()
+[![](https://img.shields.io/badge/huggingface-F8DE22?style=plastic&logo=huggingface&logoColor=white)]()
+[![](https://img.shields.io/badge/Transformers-D71313?style=plastic&logo=transformers&logoColor=white)]()
+[![](https://img.shields.io/badge/CometML-0002A1?style=plastic&logo=cometml&logoColor=white)]()
+[![](https://img.shields.io/badge/Gradio-A31ACB?style=plastic&logo=gradio&logoColor=white)]()
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
 [![Static Badge](https://img.shields.io/badge/NLP-white?logo=NLP)](#)
 [![Static Badge](https://img.shields.io/badge/Pytorch-white?logo=PyTorch)](#)
