@@ -19,7 +19,6 @@ Text Classifier App with Hugging Face, BERT, and Comet. This project shows how t
 [View code on GitHub](https://github.com/franhinomut/Text_Classifier_App)
 
 <img src="images/Classification_app.png?raw=true" />
-<img src="images/Frequency of classes?raw=true" />
 
 ---
 
