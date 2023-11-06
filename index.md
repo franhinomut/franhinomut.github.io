@@ -2,6 +2,28 @@
 
 ---
 
+## Natural Language Processing 
+
+---
+
+### BERT used with Sentiment Analysis
+
+A Sentiment Analysis model was constructed by harnessing the power of pre-trained BERT transformer, a state-of-the-art language model, and applying it to a substantial dataset enriched with smile annotations. This endeavour was executed within the PyTorch Framework, focusing on developing a model for multi-class classification.
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
+[![Static Badge](https://img.shields.io/badge/NLP-white?logo=NLP)](#)
+[![Static Badge](https://img.shields.io/badge/Pytorch-white?logo=PyTorch)](#)
+[![Static Badge](https://img.shields.io/badge/Fine_Tuning-white?logo=Fine_Tuning)](#)
+[![Static Badge](https://img.shields.io/badge/OpenCV-white?logo=OpenCV)](#)
+
+
+[View code on GitHub](https://github.com/franhinomut/BERT-used-with-Sentiment-Analysis)
+
+
+<img src="images/BERT_diagrams.png?raw=true" />
+
+---
+
 ## Computing Vision 
 
 ---
