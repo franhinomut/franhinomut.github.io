@@ -153,13 +153,16 @@ I was challenged to analyze a Google Merchandise Store (also known as GStore, wh
 
 ---
 
-### Google Analytics Customer Revenue Prediction
-
 ### Customer Churn Prediction
 
 ### Classification
 
-The goal is to determine the likelihood of a Windows operating system machine getting infected by malware based on its various properties.
+The task involves analyzing a dataset from a telecom company's customers with several objectives: 
+Exploratory Data Analysis (EDA), Data Splitting, Predictive Model Building for Customer Churn Prediction and 
+Performance Evaluation Metrics
+
+.![image](https://github.com/franhinomut/franhinomut.github.io/assets/1297707/836d731f-0c75-4dc4-8ec3-88635d00bc7a)
+
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
 [![Static Badge](https://img.shields.io/badge/Machine_Learning-white?logo=Machine_Learning)](#)
