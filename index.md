@@ -68,6 +68,8 @@ I have started off by building a model using Deep Learning with Tensorflow, whic
 
 ### Image Classification using Caltech 101 Dataset
 
+---
+
 Design and comparison of two strategies for image classification using the Caltech 101 dataset. In the first strategy, I use the pre-training network using the ImageNet dataset, and in the second, I design a neural network from scratch.
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
